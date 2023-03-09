@@ -1,0 +1,4 @@
+outs:
+- md5: 7ad38fec8421c200e6bb8ea0ff30f72f
+  size: 831
+  path: pymc-practice.ipynb

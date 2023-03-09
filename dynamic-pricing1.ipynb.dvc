@@ -1,0 +1,4 @@
+outs:
+- md5: 697a88921874ec72467768fc50edbee9
+  size: 122443
+  path: dynamic-pricing1.ipynb
